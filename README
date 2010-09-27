@@ -1,0 +1,7 @@
+NextStop - London Transit Guide is an open data application created to empower citizens of London, Ontario, with London Transit Commission's data on their mobile devices.
+
+This library package is used for requesting, parsing and handling data from the London Transit Commission's data sources.
+
+License: GNU General Public License, http://creativecommons.org/licenses/GPL/2.0/
+
+Copyright Aaron McGowan < me@amcgowan.ca > < www.amcgowan.ca > 2010.
